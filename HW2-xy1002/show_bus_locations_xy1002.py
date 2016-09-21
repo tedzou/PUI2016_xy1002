@@ -30,7 +30,7 @@ jsonData = get_jsonparsed_data(url)
 
 
 num = np.size(jsonData['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'])
-# print ('Bus Line : {}'.format(busline))
+print ('Bus Line : {}'.format(busline))
 print ('Number of Active Buses : {}'.format(num))
 for i in range(0,num):
    Latitude = get_jsonparsed_data(url)['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']

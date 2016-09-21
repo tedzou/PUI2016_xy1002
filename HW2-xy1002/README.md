@@ -6,4 +6,4 @@ I also complete this part by myself with discussing details with Xianbo Gao (xb6
 ## Assignmet 3
 I complete this part by myself following the guide from UInotebooks. 
 ### extra credit
-I try to sovle it in the last part of my code in assignment 3 and I encountered key error and solved it finally!
+I try to sovle it in the last part of my code in assignment 3 with key error and solved it finally!

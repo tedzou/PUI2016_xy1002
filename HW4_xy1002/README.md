@@ -18,4 +18,4 @@ I basically worked on my own by developing my code in the skeleton, Shay Lehman(
 
 # Extra credit
 
-I worked on this by my own. 
+I worked on this by my own used different dataset from those for assignment 4 earlier, because it took too long due to the large data size. 

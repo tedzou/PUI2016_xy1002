@@ -13,9 +13,9 @@ Formulate the Null hypothesis in words and in formulae for the 4 experiments bel
 **1. Do diets help lose more fat than the exercise?
 Experimental setup: you have a test and a control sample.**
 
-NULL HYPOTHESIS: People who diet will lose less or the same amount of fat compare to exercise.
+NULL HYPOTHESIS: People who diet will lose less or the same percentage of fat compared to people who exercise.
 
-_H0: Mean Weight of Test Sample - Mean Weight of Control Sample <= 0_
+_H0: Mean percentage of fat lose(Test Sample) - Mean percentage of fat lose (Control Sample) <= 0_
 
 **2. Do American trust the president?
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.**

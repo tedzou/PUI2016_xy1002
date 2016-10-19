@@ -8,7 +8,7 @@ Then for the ploting part including extra credit, I finished them by myself refr
 # Assignment 2
 
 Coauthors for the city bike mini project summary:
-Jonathan Toy, cor215, Xinran (New York University (NYU)), Tyler Woebkenberg (New York University (NYU)),danak (New York University (NYU))
+Jonathan Toy, cor215, Xinran (New York University (NYU)), Tyler Woebkenberg (New York University (NYU)),danak (New York University (NYU)).
 
 Link of the summary: https://www.authorea.com/users/105835/articles/133675/_show_article
 
